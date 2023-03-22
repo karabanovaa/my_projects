@@ -12,7 +12,7 @@ Here are my learning projects
     </tr>
     <tr>
       <td>1</td>
-      <td align="center">Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости</td>
+      <td align="center"><a href="https://github.com/karabanovaa/my_projects/tree/main/real_estate_SPb">Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости</a></td>
       <td><ul>
           <li>Python</li>
           <li>Pandas</li>
@@ -25,7 +25,7 @@ Here are my learning projects
     </tr>
     <tr>
       <td>2</td>
-      <td align="center">Определение выгодного тарифа для телеком компании</td>
+      <td align="center"><a href="https://github.com/karabanovaa/my_projects/tree/main/telecom_rates">Определение выгодного тарифа для телеком компании</a></td>
       <td><ul>
           <li>Python</li>
           <li>Pandas</li>
@@ -39,7 +39,7 @@ Here are my learning projects
     </tr>
     <tr>
       <td>3</td>
-      <td align="center">Определение закономерностей, определяющих успех игр</td>
+      <td align="center"><a href="https://github.com/karabanovaa/my_projects/tree/main/games_project">Определение закономерностей, определяющих успех игр</a></td>
       <td><ul>
           <li>Python</li>
           <li>Pandas</li>
@@ -55,7 +55,7 @@ Here are my learning projects
     </tr>
     <tr>
       <td>4</td>
-      <td align="center">Анализ убытков приложения ProcrastinatePRO+</td>
+      <td align="center"><a href="https://github.com/karabanovaa/my_projects/tree/main/business_indicators">Анализ убытков приложения ProcrastinatePRO+</a></td>
       <td><ul>
           <li>Python</li>
           <li>Pandas</li>
@@ -69,7 +69,7 @@ Here are my learning projects
     </tr>
     <tr>
       <td>5</td>
-      <td align="center">Проверка гипотез по увеличению выручки в интернет-магазине, оценка результатов А/В-теста</td>
+      <td align="center"><a href="https://github.com/karabanovaa/my_projects/tree/main/ab_test">Проверка гипотез по увеличению выручки в интернет-магазине, оценка результатов А/В-теста</a></td>
       <td><ul>
           <li>Python</li>
           <li>Pandas</li>
@@ -82,7 +82,7 @@ Here are my learning projects
     </tr>
     <tr>
       <td>6</td>
-      <td align="center">Анализ пользовательского поведения в мобильном приложении</td>
+      <td align="center"><a href="https://github.com/karabanovaa/my_projects/tree/main/users_behavior">Анализ пользовательского поведения в мобильном приложении</a></td>
       <td><ul>
           <li>Python</li>
           <li>Pandas</li>
